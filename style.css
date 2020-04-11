@@ -10,49 +10,50 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
 a,h1,h2,h3,h4,li,p,span,ul{
-    font-family:Montserrat
+	font-family:Montserrat;
 }.attachment-large{
-    max-width:100%;height:auto!important
+	max-width:100%;
+	height:auto!important;
 }
 
 h1{
-    margin:50px 0;
-    font-weight: 900;
+	margin:50px 0;
+	font-weight: 900;
 }
 
 ul{
-    margin-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 header{
-    background-color:#1c3643
+	background-color:#1c3643;
 }
 
 header nav li{
-    list-style:none;
-    display:inline-block;
-    padding:0 15px
+	list-style:none;
+	display:inline-block;
+	padding:0 15px;
 }
 
 header nav li a{
-    color:#fff;
-    text-transform:uppercase
+	color:#fff;
+	text-transform:uppercase;
 }
 
 header nav li a:hover{
-    color:#fff
+	color:#fff;
 }
 
 footer{
-    background-color:#1c3643;
-    padding:10px 0
+	background-color:#1c3643;
+	padding:10px 0;
 }
 
 footer{
-    color:white
+	color:white;
 }
 
 footer p{
-    margin:0;
-    color:#fff
+	margin:0;
+	color:#fff;
 }
